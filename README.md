@@ -1,7 +1,5 @@
 # Advent of Code 2023 - Go Edition
 
-## Overview
-
 This repository is my playground for solving the [Advent of Code 2023](https://adventofcode.com/2023) challenges using the Go programming language. 
 Unlike [my Advent of Code 2022 project](https://github.com/philippdrebes/AdventOfCode2022), where I focused on learning Rust, this year is all about problem-solving and refining my Go skills.
 
